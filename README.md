@@ -1,4 +1,4 @@
-# CEP Course material
+# CEP course material on ML&IP
 
 Materials for students who attended 
 [CEP Course](http://www.iitp.ac.in/cep/cep_doc/FDP_LNJPIT_Brochure.pdf)  on 
@@ -14,9 +14,9 @@ to make it as easy as possible all examples can be directly run on
 
 ## Files
 
-1. Vanilla GAN
-2. DCGAN (Deep convolutional GAN)
-3. Adversarial example using Fast Gradient Signed Method (FGSM)
+1. [Vanilla GAN](https://github.com/alwynmathew/CEP-MLIPcourse/blob/master/GAN/GAN-keras-mnist-MLP.ipynb)
+2. [DCGAN (Deep convolutional GAN)](https://github.com/alwynmathew/CEP-MLIPcourse/blob/master/GAN/GAN-keras-mnist-DCGAN.ipynb)
+3. [Adversarial example using Fast Gradient Signed Method (FGSM)](https://github.com/alwynmathew/CEP-MLIPcourse/blob/master/adversarial_examples/FGSM.ipynb)
 
 ## Exercises for you
 
